@@ -4,6 +4,7 @@ Objects are fundamental building blocks for representing data structures and imp
 
 */
 
+
 //Example
 const person = {
     name: "John Doe",

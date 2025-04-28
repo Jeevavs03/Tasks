@@ -47,6 +47,7 @@ function greet(name) {
 
 console.log(greet("Alisha"));
 
+
 // 8.Return Statement
 function add(a, b) {
     return a + b;

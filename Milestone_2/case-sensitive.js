@@ -8,6 +8,7 @@ Declaring variable with different cases causes an error
 
   //Example 
 
+  
   /*
      var,let,const 
      loos,if,else

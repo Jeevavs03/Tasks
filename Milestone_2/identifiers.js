@@ -8,6 +8,7 @@ it should starts with a letter,_ or $.
   let _myVariable = "hello";
   let $myVariable = "hello";
 
+  
 /* 
     Do not declare variables with reserved keywords
 */
